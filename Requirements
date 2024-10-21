@@ -1,0 +1,13 @@
+install the following libraries (run it in command prompt)
+  pip install SpeechRecognition
+  pip install pyttsx3
+  pip install google-generativeai
+
+for speech_recognition
+Windows    -    pip install PyAudio
+MacOS      -    brew install portaudio ,pip install pyaudio
+Linux      -    sudo apt-get install python3-pyaudio,pip install pyaudio
+
+
+
+
